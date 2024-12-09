@@ -134,5 +134,10 @@
 			"isLike": false,
 			"isBuy": false
 		}
-	]
+	],
+    "laptop":[],
+    "camera":[],
+    "accessories":[],
+    "smartphone":[],
+    "gaming":[]
 }
