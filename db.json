@@ -7,12 +7,13 @@
 				"https://m.media-amazon.com/images/I/51CM4kw8LrL.jpg",
 				"https://avatars.mds.yandex.net/i?id=d23e527240e9e212e540ab717e5d7a9592f8df12-4324055-images-thumbs&n=13"
 			],
-			"title": "Iphone 14 promax 256 gig",
+			"title": "Iphone 14 Pro Max 256GB",
 			"price_current": "$930.90",
 			"price_old": "$979.90",
 			"rate": "4.5",
 			"isLike": false,
-			"isBuy": false
+			"isBuy": false,
+			"description": "Iphone 14 Pro Max - yuqori darajadagi ishlash va ajoyib kamera sifati bilan tanilgan smartfon. 256GB xotira va zamonaviy dizaynga ega."
 		},
 		{
 			"id": 7,
@@ -26,7 +27,8 @@
 			"price_old": "$2535.00",
 			"rate": "4.5",
 			"isLike": false,
-			"isBuy": false
+			"isBuy": false,
+			"description": "Professional video suratga olish uchun yuqori sifatli kamera. Canon EF moslamasi bilan birga ishlash imkoniyatiga ega va 6K aniqlikda video yozib olishni qo‘llab-quvvatlaydi."
 		},
 		{
 			"id": 8,
@@ -35,12 +37,13 @@
 				"https://avatars.mds.yandex.net/i?id=ee6991146f8ffac65d951746968722346ba748d8-10639206-images-thumbs&n=13",
 				"hhttps://avatars.mds.yandex.net/i?id=788e0f7bc21142c0f5b19b29d5a9c82b94404084c83e0e21-5569949-images-thumbs&n=13"
 			],
-			"title": "SAMSUNG Galaxy S23 Ultra Cell Phone,256 GB",
+			"title": "SAMSUNG Galaxy S23 Ultra Cell Phone, 256 GB",
 			"price_current": "$1018.00",
 			"price_old": "$1410.87",
 			"rate": "4.7",
 			"isLike": false,
-			"isBuy": false
+			"isBuy": false,
+			"description": "SAMSUNG Galaxy S23 Ultra - katta hajmdagi xotira va ajoyib kameraga ega kuchli smartfon. Mobil ishlash va innovatsiyalarni qidirayotganlar uchun ideal."
 		},
 		{
 			"id": 9,
@@ -54,7 +57,8 @@
 			"price_old": "$1410.87",
 			"rate": "3.9",
 			"isLike": false,
-			"isBuy": false
+			"isBuy": false,
+			"description": "VR VisionTech X1 - virtual reallikni yangi darajaga olib chiqadigan zamonaviy qurilma. O'yinlar va immersiv tajriba uchun mos."
 		}
 	],
 	"saleProduct": [
