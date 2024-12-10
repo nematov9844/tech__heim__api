@@ -114,11 +114,11 @@
 		}
 	],
 	"category": [
-		{ "id": 1, "name": "Accessories" },
-		{ "id": 2, "name": "Camera" },
-		{ "id": 3, "name": "Laptop" },
-		{ "id": 4, "name": "Smart Phone" },
-		{ "id": 5, "name": "Gaming" }
+		{ "id": 1, "name": "Accessories", "value": "accessories" },
+		{ "id": 2, "name": "Camera", "value": "camera" },
+		{ "id": 3, "name": "Laptop", "value": "laptop" },
+		{ "id": 4, "name": "Smart Phone", "value": "smartphone" },
+		{ "id": 5, "name": "Gaming", "value": "gaming" }
 	],
 	"bestSeller": [
 		{
@@ -161,9 +161,254 @@
 			"isBuy": false
 		}
 	],
-	"laptop": [],
-	"camera": [],
-	"accessories": [],
-	"smartphone": [],
-	"gaming": []
+	"laptop": [
+		{
+			"id": 1,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=3907846d001988b9f86589ccf755be44ce465928-12606451-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=ed94576174f15ceca784872e8cde82bcbe1fcf23-12168744-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=484aa571cb4a1376ed0b05e7516b75f14826370f-10849343-images-thumbs&n=13"
+			],
+			"title": "Dell XPS 13",
+			"price_current": "$999.00",
+			"price_old": "$1199.00",
+			"rate": "4.8",
+			"isLike": false,
+			"isBuy": true,
+			"description": "Dell XPS 13 - yengil va qulay, kuchli ishlashga ega noutbuk."
+		},
+		{
+			"id": 2,
+			"img": [
+				"https://agroup.by/upload/Sh/imageCache/435/707/7078211365763553.webp",
+				"https://agroup.by/upload/Sh/imageCache/314/289/289074349363697.webp",
+				"https://agroup.by/upload/Sh/imageCache/402/402/4024342375253616.webp"
+			],
+			"title": "MacBook Pro 16",
+			"price_current": "$2499.00",
+			"price_old": "$2699.00",
+			"rate": "4.9",
+			"isLike": true,
+			"isBuy": false,
+			"description": "MacBook Pro 16 - professional foydalanuvchilar uchun mo‘ljallangan kuchli noutbuk."
+		},
+		{
+			"id": 3,
+			"img": [
+				"https://agroup.by/upload/Sh/imageCache/152/255/2553603427393620.webp",
+				"https://agroup.by/upload/Sh/imageCache/292/764/7645143779010566.webp",
+				"https://agroup.by/upload/Sh/imageCache/165/756/7563331775891376.webp"
+			],
+			"title": "HP Spectre x360",
+			"price_current": "$1399.00",
+			"price_old": "$1499.00",
+			"rate": "4.6",
+			"isLike": false,
+			"isBuy": false,
+			"description": "HP Spectre x360 - ko‘p funksiyali dizayn va yuqori ishlashni taklif etadi."
+		},
+		{
+			"id": 4,
+			"img": [
+				"https://agroup.by/upload/Sh/imageCache/282/598/598371935704565.webp",
+				"https://agroup.by/upload/Sh/imageCache/395/717/7173534006047914.webp",
+				"https://agroup.by/upload/Sh/imageCache/116/749/7491542475017516.webp"
+			],
+			"title": "Lenovo ThinkPad X1 Carbon",
+			"price_current": "$1299.00",
+			"price_old": "$1399.00",
+			"rate": "4.7",
+			"isLike": true,
+			"isBuy": false,
+			"description": "Lenovo ThinkPad X1 Carbon - biznes uchun ideal tanlov."
+		}
+	],
+	"camera": [
+		{
+			"id": 1,
+			"img": [
+				"https://nl.letsgodigital.org/uploads/2019/09/canon-eos-90d-kopen.jpg",
+				"https://avatars.mds.yandex.net/i?id=aa7e78d237a62269bc003fae9e50bd86cf1fb35d-8497298-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=48e1c091462de89afb9d1e352e40eaaf6671f81a47b15c74-5873467-images-thumbs&n=13"
+			],
+			"title": "Canon EOS 90D",
+			"price_current": "$1199.00",
+			"price_old": "$1299.00",
+			"rate": "4.8",
+			"isLike": false,
+			"isBuy": false,
+			"description": "Canon EOS 90D - yarim professional fotograf uchun ideal tanlov."
+		},
+		{
+			"id": 2,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=34ae47a3eb98609e5a0cfcab3ecb25f6039792af-8427457-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=cda95b3857d98308a41755ab2d229386_l-5222587-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=e3f82fa5dbf1b6e12a85fcf85b7391eaab4fcd1e-4542475-images-thumbs&n=13"
+			],
+			"title": "Sony Alpha a7 III",
+			"price_current": "$1999.00",
+			"price_old": "$2199.00",
+			"rate": "4.9",
+			"isLike": true,
+			"isBuy": true,
+			"description": "Sony Alpha a7 III - yuqori sifatli surat olish imkonini beruvchi kamera."
+		}
+	],
+	"accessories": [
+		{
+			"id": 1,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=204d988bbacec6647b215edfdfbde0b0377e1d67-12892887-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=92d7b57dd3b815efae092c3cd458ea1718b1c592-10243293-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=82a31ca11929a6458d7699a32ce81672f7a8ebc4-4886334-images-thumbs&n=13"
+			],
+			"title": "Apple AirPods Pro",
+			"price_current": "$199.00",
+			"price_old": "$249.00",
+			"rate": "4.9",
+			"isLike": false,
+			"isBuy": true,
+			"description": "Apple AirPods Pro - shovqinni bekor qiluvchi ajoyib naushniklar."
+		},
+		{
+			"id": 2,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=4faf4cbabb3d78d09cbdc47b73e571505472f096-5265887-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=cb38cbc2da053776bb749164ac00fc1e34fc627866e47efa-12445046-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=aa0bc8aa94f6da524d1a95297b5e7ccfde0e3fe2d74a86dc-12726927-images-thumbs&n=13"
+			],
+			"title": "Logitech MX Master 3",
+			"price_current": "$99.00",
+			"price_old": "$119.00",
+			"rate": "4.8",
+			"isLike": true,
+			"isBuy": false,
+			"description": "Logitech MX Master 3 - samarali va qulay sichqoncha."
+		}
+	],
+	"smartphone": [
+		{
+			"id": 1,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=d08674c6a1402e46e48b716e52f641c41cb254cd-4435546-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=74762b328d1c40d3fbef8b89eae334dd23b5ece5-5656601-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=d1d437fca32899e9dbb92c601a6d27d0ec575a43-10844270-images-thumbs&n=13"
+			],
+			"title": "Samsung Galaxy S23 Ultra",
+			"price_current": "$1199.00",
+			"price_old": "$1299.00",
+			"rate": "4.9",
+			"isLike": true,
+			"isBuy": false,
+			"description": "Samsung Galaxy S23 Ultra - yuqori tezlikdagi ishlash va ajoyib kamera xususiyatlari bilan tanilgan flagman telefon."
+		},
+		{
+			"id": 2,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=0c6d5e8683d2841820e49bd10200e7f70455fa26-5233129-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=ef0b4b8dd4d9c058a5a299f30785508a53c37d90-5844146-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=70e1135bdec2b4ba23cc4d6fe036e23e3a782f14-9237081-images-thumbs&n=13"
+			],
+			"title": "Google Pixel 7 Pro",
+			"price_current": "$899.00",
+			"price_old": "$999.00",
+			"rate": "4.7",
+			"isLike": false,
+			"isBuy": true,
+			"description": "Google Pixel 7 Pro - ajoyib dasturiy ta'minot va sun'iy intellekt kuchiga ega smartfon."
+		},
+		{
+			"id": 3,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=d23dfd539541669a3a52a9babe318f56b3bf348f-10502494-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=f752a240677360c665b67cece4c8dda51044a413-5252983-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=9c20228e0264e858f6d0cbb792f22e120e29db39-9985849-images-thumbs&n=13"
+			],
+			"title": "OnePlus 11",
+			"price_current": "$749.00",
+			"price_old": "$849.00",
+			"rate": "4.6",
+			"isLike": false,
+			"isBuy": false,
+			"description": "OnePlus 11 - tez zaryadlash va yuqori darajadagi ishlash imkoniyatlarini taqdim etadi."
+		},
+		{
+			"id": 4,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=0fb187f265985674da60dd6664baf362f537b893-5242761-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=ad5a8f5948511fb76ea9f87cc483e980eca91c99-10273175-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=5b0292eb3fb2f421f910f4f68a6b915f06ee9544-12434137-images-thumbs&n=13"
+			],
+			"title": "Xiaomi 13 Pro",
+			"price_current": "$649.00",
+			"price_old": "$699.00",
+			"rate": "4.8",
+			"isLike": true,
+			"isBuy": true,
+			"description": "Xiaomi 13 Pro - arzon narxda kuchli texnologiya va yuqori sifatni taklif etadi."
+		}
+	],
+	"gaming": [
+		{
+			"id": 1,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=b25d9c707757631e860d2849ebda19eb4145c71f-5254610-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=96055159c0e4ad91fc407f29914fc493f1fac635-4348084-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=361466bf6dceedb5dc15e3d7bc0873688489cd76-10878220-images-thumbs&n=13"
+			],
+			"title": "PlayStation 5",
+			"price_current": "$499.00",
+			"price_old": "$599.00",
+			"rate": "4.9",
+			"isLike": true,
+			"isBuy": false,
+			"description": "PlayStation 5 - zamonaviy o‘yin dunyosiga kirish uchun mukammal tanlov."
+		},
+		{
+			"id": 2,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=3ab49a4841464aa428416ad7ddb7173c7bcb8431-7018491-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=63483f4414746061f204cd4e800b3d94cba85e52-6301299-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=f64d0cd93a7e0273b48fafb119ac6ad107dc7674-5233722-images-thumbs&n=13"
+			],
+			"title": "Xbox Series X",
+			"price_current": "$499.00",
+			"price_old": "$549.00",
+			"rate": "4.8",
+			"isLike": false,
+			"isBuy": true,
+			"description": "Xbox Series X - yuqori aniqlik va tezlikdagi o‘yin tajribasi."
+		},
+		{
+			"id": 3,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=1c6d6bd8348601bf2e232e631ecbccbb0658713a-9625729-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=7d50bce0d39ca6e3224c0c60757ce5bce5f50517-13104710-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=f8cafa7095aaaafc72a4a059efe8b6391924da86-13203112-images-thumbs&n=13"
+			],
+			"title": "Nintendo Switch OLED",
+			"price_current": "$349.00",
+			"price_old": "$399.00",
+			"rate": "4.7",
+			"isLike": true,
+			"isBuy": false,
+			"description": "Nintendo Switch OLED - portativ va statsionar o‘yin imkoniyatlarini birlashtiradi."
+		},
+		{
+			"id": 4,
+			"img": [
+				"https://avatars.mds.yandex.net/i?id=d6a7eadc39912481ebe5abc6da779734d28ef648-4097709-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=0c83e527d47f8d1151564105ab191a73ba865dc8-3996495-images-thumbs&n=13",
+				"https://avatars.mds.yandex.net/i?id=ec0f0441dd21cc3aa447f0813fe25aeff3266b95-8497356-images-thumbs&n=13"
+			],
+			"title": "Razer Blade 15",
+			"price_current": "$2499.00",
+			"price_old": "$2699.00",
+			"rate": "4.6",
+			"isLike": false,
+			"isBuy": true,
+			"description": "Razer Blade 15 - professionallar uchun mo‘ljallangan o‘yin noutbuki."
+		}
+	]
 }
